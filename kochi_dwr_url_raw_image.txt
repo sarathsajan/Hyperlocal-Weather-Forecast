@@ -1,0 +1,1 @@
+http://117.221.70.132/geoserver/dwr_kochi/wms?service=WMS&request=GetMap&layers=dwr_kochi:maxz_image&styles=&format=image/png&transparent=true&width=1024&height=1024&srs=EPSG:4326&bbox=73.5,8,78,12.5
