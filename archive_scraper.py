@@ -8,7 +8,7 @@ from time import sleep
 
 utc = pytz.utc
 
-days = 0.035
+days = 0.09
 start_delta = 60 * 60 * 24 * days
 curr_datetime = datetime.now(utc)
 init_datetime = curr_datetime - timedelta(seconds=start_delta)
