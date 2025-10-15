@@ -1,3 +1,5 @@
+2025-10-11 : 2ed75a7 : base map generator added
+2025-08-08 : 85d0793 : updating readme and docs
 2025-08-07 : 5f52909 : added error handling code
 2025-08-06 : 43f3df7 : duration of scrap updated to 0.1 days
 2025-08-06 : 0f807a3 : Delete maxz_image_archive directory

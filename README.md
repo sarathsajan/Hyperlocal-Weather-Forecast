@@ -56,4 +56,6 @@ If you encounter a bug or problem, open an issue with the label `bug` and includ
 
 ## Acknowledgments
 
-Data used in this project was sourced from the [India Meteorological Department](https://mausam.imd.gov.in/) website. This project is not officially affiliated with or endorsed by the India Meteorological Department
+Data used in this project was sourced from the [India Meteorological Department](https://mausam.imd.gov.in/) website. This project is not officially affiliated with or endorsed by the India Meteorological Department. 
+
+## Misc
